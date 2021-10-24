@@ -4,13 +4,13 @@
   "description": "",
   "main": "jest.config.js",
   "dependencies": {
-    "@supabase/supabase-js": "1.22.6",
+    "@supabase/supabase-js": "1.25.1",
     "@types/jest": "27.0.2",
-    "fastify": "3.21.3",
+    "fastify": "3.22.1",
     "fastify-blipp": "3.1.0",
     "fastify-sensible": "3.1.1",
-    "jest": "27.2.1",
-    "ts-jest": "27.0.5",
+    "jest": "27.3.1",
+    "ts-jest": "27.0.7",
     "ts-node-dev": "1.1.8"
   },
   "devDependencies": {
